@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiOpenVault",
       "LiNotebookPen",
       "LiBrain",
       "LiNetwork",
-      "LiStepForward",
-      "LiGoal"
+      "LiStepForward"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "03 - Progress Tracking.md": "LiStepForward",
   "04 - Network and Collaboration.md": "LiNetwork",
   "05 - Brainstorming.md": "LiBrain",
-  "06 - Journal.md": "LiNotebookPen"
+  "06 - Journal.md": "LiNotebookPen",
+  "00 - README.md": "LiOpenVault"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Dashboard.md",
+                "file": "00 - README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Dashboard"
+              "title": "00 - README"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 00 - README"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -184,14 +186,15 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "01 - Dashboard.md",
+    "05 - Brainstorming.md",
+    "00 - README.md",
+    "06 - Journal.md",
     "Untitled.md",
     "Untitled 1",
     "02 - Goals and Strategy.md",
     "Untitled",
     "Experiments and Projects",
     "Research Library",
-    "06 - Journal.md",
-    "05 - Brainstorming.md",
     "04 - Network and Collaboration.md",
     "03 - Progress Tracking.md"
   ]
