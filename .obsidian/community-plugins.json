@@ -1,3 +1,22 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "omnisearch",
+  "obsidian-icon-folder",
+  "recent-files-obsidian",
+  "homepage",
+  "tag-wrangler",
+  "obsidian-mind-map",
+  "editing-toolbar",
+  "obsidian-linter",
+  "better-word-count",
+  "smart-connections",
+  "obsidian-textgenerator-plugin",
+  "copilot",
+  "url-into-selection",
+  "various-complements",
+  "note-refactor-obsidian"
 ]
