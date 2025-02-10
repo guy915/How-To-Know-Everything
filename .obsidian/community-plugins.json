@@ -1,18 +1,3 @@
 [
-  "table-editor-obsidian",
-  "obsidian-icon-folder",
-  "homepage",
-  "obsidian-mind-map",
-  "editing-toolbar",
-  "obsidian-importer",
-  "better-word-count",
-  "omnisearch",
-  "text-extractor",
-  "share-note",
-  "ai-image-analyzer",
-  "obsidian-banners",
-  "obsidian-git",
-  "obsidian-kanban",
-  "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-git"
 ]

@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Temporary Notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Resources/Attachments"
 }

@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01 - Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 01 - Dashboard"
             }
           },
           {
-            "id": "50dc1fa768c8b4f3",
+            "id": "5824d18c09098f07",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +176,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false,
+      "zk-prefixer:Create new unique note": false,
       "obsidian-git:Open Git source control": false
     }
   },
