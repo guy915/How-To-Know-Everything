@@ -221,6 +221,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -242,6 +244,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md",
     "Excalidraw",
     "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
@@ -262,7 +265,6 @@
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
-    "Dashboard.md",
     "README.md",
     "03 - Progress Tracking.md",
     "Goals and Strategy.md",
