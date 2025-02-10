@@ -120,6 +120,121 @@
     }
   },
   "resources": {},
-  "installedPackagesHash": {},
+  "installedPackagesHash": {
+    "default": {
+      "packageId": "default",
+      "prompts": [
+        {
+          "promptId": "getEmailNeg"
+        },
+        {
+          "promptId": "getEmailPos"
+        },
+        {
+          "promptId": "getIdeas"
+        },
+        {
+          "promptId": "getOutline"
+        },
+        {
+          "promptId": "getParagraph"
+        },
+        {
+          "promptId": "getTags"
+        },
+        {
+          "promptId": "getTitles"
+        },
+        {
+          "promptId": "rewrite"
+        },
+        {
+          "promptId": "simplify"
+        },
+        {
+          "promptId": "summarize"
+        },
+        {
+          "promptId": "summarizeLarge"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "summarizeLarge",
+          "version": ""
+        },
+        {
+          "promptId": "getEmailPos",
+          "version": ""
+        },
+        {
+          "promptId": "getIdeas",
+          "version": ""
+        },
+        {
+          "promptId": "rewrite",
+          "version": ""
+        },
+        {
+          "promptId": "getTitles",
+          "version": ""
+        },
+        {
+          "promptId": "getTags",
+          "version": ""
+        },
+        {
+          "promptId": "getOutline",
+          "version": ""
+        },
+        {
+          "promptId": "getParagraph",
+          "version": ""
+        },
+        {
+          "promptId": "summarize",
+          "version": ""
+        },
+        {
+          "promptId": "simplify",
+          "version": ""
+        },
+        {
+          "promptId": "getEmailNeg",
+          "version": ""
+        }
+      ],
+      "version": "0.0.5"
+    },
+    "huggingface": {
+      "packageId": "huggingface",
+      "prompts": [
+        {
+          "promptId": "classify-bart-large-mnli"
+        },
+        {
+          "promptId": "completeTextBloom"
+        },
+        {
+          "promptId": "summarizeBART"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "classify-bart-large-mnli",
+          "version": ""
+        },
+        {
+          "promptId": "completeTextBloom",
+          "version": ""
+        },
+        {
+          "promptId": "summarizeBART",
+          "version": ""
+        }
+      ],
+      "version": "0.0.1"
+    }
+  },
   "subscriptions": []
 }

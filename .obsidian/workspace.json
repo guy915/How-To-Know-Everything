@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dashboard"
             }
           }
         ]
@@ -92,6 +92,16 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "16b98312b4f04d4d",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
         ]
@@ -182,23 +192,23 @@
             }
           },
           {
-            "id": "d2b3913cda8b5794",
+            "id": "5871099b33049b31",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "79ea35179f7cd7a1",
+            "id": "0d8f9605f80a4bb0",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -206,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,12 +232,36 @@
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "79ea35179f7cd7a1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md",
+    "Excalidraw",
+    "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
+    "textgenerator/templates/huggingface/summarizeBART.md",
+    "textgenerator/templates/huggingface/completeTextBloom.md",
+    "textgenerator/templates/huggingface",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
     "Dashboard.md",
     "README.md",
     "03 - Progress Tracking.md",

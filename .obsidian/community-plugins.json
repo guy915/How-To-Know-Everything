@@ -13,8 +13,6 @@
   "editing-toolbar",
   "obsidian-linter",
   "better-word-count",
-  "smart-connections",
-  "obsidian-textgenerator-plugin",
   "copilot",
   "url-into-selection",
   "various-complements",
@@ -30,5 +28,7 @@
   "auto-card-link",
   "obsidian-auto-link-title",
   "text-extractor",
-  "ai-image-analyzer"
+  "ai-image-analyzer",
+  "smart-connections",
+  "obsidian-textgenerator-plugin"
 ]
