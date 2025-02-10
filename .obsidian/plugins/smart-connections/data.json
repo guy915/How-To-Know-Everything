@@ -5,7 +5,12 @@
   "actions": {
     "lookup": true
   },
-  "smart_notices": {},
+  "smart_notices": {
+    "muted": {
+      "done_import": true,
+      "embedding_complete": true
+    }
+  },
   "system_prompts_folder": "smart prompts",
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
