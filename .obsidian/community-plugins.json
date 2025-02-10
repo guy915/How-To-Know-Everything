@@ -9,9 +9,10 @@
   "omnisearch",
   "text-extractor",
   "share-note",
-  "obsidian-excalidraw-plugin",
-  "obsidian-annotator",
   "ai-image-analyzer",
   "obsidian-banners",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "dataview",
+  "obsidian-excalidraw-plugin"
 ]
