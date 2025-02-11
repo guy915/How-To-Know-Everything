@@ -15,3 +15,7 @@ This repository is a **knowledge base** and **collaborative platform** for longe
 **Biomedical Engineering** - Advancing regenerative medicine, bioprinting, and gene editing for tissue and organ renewal.
 
 **Computer Science** - Applying AI, neural networks, and computational neuroscience to model and optimize aging interventions.
+
+>  *This is research, not facts. Take everything with a grain of salt, always doubt first, agree after, and even then keep questioning.*
+
+Start here.

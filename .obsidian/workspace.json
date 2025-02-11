@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Permanent Notes/Indexes/Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e7016a15831db8ee",
@@ -242,9 +242,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e45bcacba769a183",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "README.md",
+    "Permanent Notes/Indexes/Dashboard.md",
+    "Permanent Notes/Indexes",
     "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md",
     "Excalidraw",
     "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
@@ -265,7 +267,6 @@
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
-    "README.md",
     "03 - Progress Tracking.md",
     "Goals and Strategy.md",
     "Tags",
@@ -275,7 +276,6 @@
     "Untitled 1",
     "Untitled",
     "Experiments and Projects",
-    "Research Library",
     "04 - Network and Collaboration.md"
   ]
 }
