@@ -18,4 +18,4 @@ This repository is a **knowledge base** and **collaborative platform** for longe
 
 >  *This is research, not facts. Take everything with a grain of salt, always doubt first, agree after, and even then keep questioning.*
 
-Start here.
+Start [[Dashboard|here]].
