@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Permanent Notes/Indexes/Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dashboard"
             }
           }
         ]
@@ -244,8 +244,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Permanent Notes/Indexes/Dashboard.md",
     "README.md",
+    "Permanent Notes/Indexes/Dashboard.md",
     "Temporary Notes/here.md",
     "Permanent Notes/Indexes",
     "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md",
