@@ -16,6 +16,6 @@ This repository is a **knowledge base** and **collaborative platform** for longe
 
 **Computer Science** - Applying AI, neural networks, and computational neuroscience to model and optimize aging interventions.
 
->  *This is research, not facts. Take everything with a grain of salt, always doubt first, agree after, and even then keep questioning.*
+>  *This is research, not facts. Take everything with a grain of salt, always doubt first, agree after, and even then stay skeptical.*
 
 Start [[Dashboard|here]].
