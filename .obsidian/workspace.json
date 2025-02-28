@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2216ba1ab3be2a29",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a05fe7efab7f18e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Temporary Notes/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -207,8 +207,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -241,11 +241,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5824d18c09098f07",
+  "active": "a05fe7efab7f18e1",
   "lastOpenFiles": [
+    "Temporary Notes/Untitled.md",
     "Permanent Notes/Indexes/Dashboard.md",
-    "System Documentation",
     "README.md",
+    "System Documentation",
     "Temporary Notes/here.md",
     "Permanent Notes/Indexes",
     "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md",
