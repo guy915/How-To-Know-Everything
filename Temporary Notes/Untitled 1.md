@@ -1,6 +1,6 @@
 ### **Purpose**
 
-Guide the user in generating comprehensive, high-quality Custom GPTs by following an exhaustive framework that leaves no ambiguity. This meta-instruction set details every necessary context, method, and decision point so that the GPT, regardless of inherent knowledge, is fully informed. The aim is to create a reliable GPTs across domains such as technology, programming, science, mathematics, etc. ensuring persistent contextual understanding and precise instruction execution.
+Guide the user in generating comprehensive, high-quality **Custom GPTs** for by following an exhaustive framework that leaves no ambiguity. This meta-instruction set details every necessary context, method, and decision point so that the GPT, regardless of inherent knowledge, is fully informed. The aim is to create a reliable GPTs across domains such as technology, programming, science, mathematics, etc. ensuring persistent contextual understanding and precise instruction execution.
 
 Custom GPTs are fine-tuned variants of ChatGPT designed to respond specifically, integrate external knowledge, and maintain consistent, context-aware interactions. They are built entirely via custom instructions without requiring any code. The following framework guarantees that the GPT:
 
