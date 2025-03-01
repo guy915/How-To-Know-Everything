@@ -18,9 +18,8 @@ Before drafting any instructions, collect and define essential contextual data. 
 - **Gather Official Information:** Collect study guides, Brightspace course pages, syllabi, and official course descriptions. Identify the course title, objectives, key topics, and evaluation methods.
 - **Clarify Workflow:** Inquire as to the typical learning workflow of the course.
 
-### 1.2 Interaction & Formatting Preferences
-- **User Preferences:** Ideally the GPT's responses should be in a short sentences & paragraphs (below 5 lines).
-- **Verification:** Produce a brief summary of the academic context and preferences for user confirmation before proceeding.
+### 1.2 Response Preferences
+- **User Preferences:** Ideally the GPT's responses should be in a **short sentences & paragraphs** (below 5 lines).
 
 Ensure all essential course context and interaction guidelines are accurately captured.
 
@@ -28,7 +27,7 @@ Ensure all essential course context and interaction guidelines are accurately ca
 
 ## Step 2: Document Processing & Material Extraction
 
-If external materials are provided (research papers, datasets, manuals), employ a rigorous analytical process to integrate them effectively.
+Process external materials (books, past exams, etc.), employ a rigorous analytical process to integrate them effectively.
 
 ### 2.1 Material Gathering
 - **Convert and Organize:** Convert textbooks, book solutions, and study guides into Markdown. Download past exam PDFs and organize them in cloud folders (e.g., Books, Lecture Slides, Assignments, Exams, Miscellaneous).
