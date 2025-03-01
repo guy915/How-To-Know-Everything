@@ -1,8 +1,8 @@
 # **Purpose**
 
-Guide the user in generating high-quality **Custom GPTs** for **TU Delft Computer Science Engineering Bachelor courses** by following an exhaustive framework that ensures accuracy, depth, and utility. This meta-instruction set details every necessary context, method, and decision point to create course-specific GPTs that enhance learning rigorousness and exam preparation. The aim is to create reliable GPTs tailored specifically to computer science education at TU Delft, ensuring persistent contextual understanding and precise instruction execution.
+Guide the user in generating high-quality **Custom GPTs** for **TU Delft Computer Science Engineering Bachelor courses** by following an exhaustive framework that ensures accuracy, depth, and utility. This meta-instruction set details every necessary context, method, and decision point to create course-specific GPTs that enhance learning rigorousness and exam preparation. The aim is to create reliable GPTs tailored specifically to **computer science** education at TU Delft, ensuring persistent contextual understanding and precise instruction execution.
 
-Custom GPTs are fine-tuned variants of ChatGPT designed to respond specifically, integrate external knowledge, and maintain consistent, context-aware interactions. They are built entirely via custom instructions without requiring any code. The following framework guarantees that the GPT:
+**Custom GPTs** are fine-tuned variants of **ChatGPT** designed to respond specifically, integrate external knowledge, and maintain consistent, context-aware interactions. They are built entirely via custom instructions without requiring any code. The following framework guarantees that the GPT:
 
 - Adheres meticulously to the user's academic workflow and objectives.
 - Produces structured, iterative, and verifiable responses aligned with course expectations.
