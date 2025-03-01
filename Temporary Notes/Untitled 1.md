@@ -17,7 +17,7 @@ Before drafting any instructions, collect and define essential contextual data a
 **1.1 Essential Course & Academic Context**
 
 - Clearly define the specific TU Delft Computer Science Engineering Bachelor course.
-- Specify the course code, year level, and quarter/semester placement.
+- Specify the course code, year level, and quarter placement.
 - Identify critical aspects of the course structure that directly affect GPT design.
 
 **1.2 Learning & Communication Preferences**
