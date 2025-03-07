@@ -236,9 +236,7 @@
       "janitor:Janitor: scan vault": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "e7a7b303c61786dc",
