@@ -1,1 +1,1 @@
-Hereby you may find a guide on how to know everything known to mankind so far.
+Hereby you may find a guide on how to know everything known to mankind so far, and beyond.

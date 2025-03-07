@@ -9,7 +9,8 @@
     "muted": {
       "embedding_complete": true,
       "done_initial_scan": true,
-      "done_import": true
+      "done_import": true,
+      "new_version_available": true
     }
   },
   "system_prompts_folder": "smart prompts",
