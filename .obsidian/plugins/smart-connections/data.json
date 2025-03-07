@@ -10,7 +10,9 @@
       "embedding_complete": true,
       "done_initial_scan": true,
       "done_import": true,
-      "new_version_available": true
+      "new_version_available": true,
+      "load_env": true,
+      "no_import_queue": true
     }
   },
   "system_prompts_folder": "smart prompts",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dashboard"
             }
           }
         ]
@@ -236,15 +236,18 @@
       "janitor:Janitor: scan vault": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "Dashboard.md",
     "Temporary Notes/Aging Research README.md",
     "Temporary Notes/Dashboard.md",
     "Temporary Notes/Aging Research Dashboard.md",
-    "README.md",
     "Permanent Notes/Indexes/Dashboard.md",
     "Temporary Notes/Template Draft.md",
     "Temporary Notes/Untitled 1.md",
@@ -274,7 +277,6 @@
     "03 - Progress Tracking.md",
     "Goals and Strategy.md",
     "Tags",
-    "05 - Brainstorming.md",
     "Untitled 1",
     "Experiments and Projects"
   ]
