@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6a71ff7d3a70537f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "acf7a01b3ae4ab7b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -94,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e7016a15831db8ee",
@@ -203,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,15 +236,20 @@
       "copilot:Open Copilot Chat": false,
       "smart-random-note:Open Random Note from Search": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "acf7a01b3ae4ab7b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Permanent Notes/Indexes/Dashboard.md",
-    "Temporary Notes/Untitled 1.md",
-    "Temporary Notes/Untitled.md",
+    "Temporary Notes/Aging Research README.md",
+    "Temporary Notes/Dashboard.md",
+    "Temporary Notes/Aging Research Dashboard.md",
     "README.md",
+    "Permanent Notes/Indexes/Dashboard.md",
+    "Temporary Notes/Template Draft.md",
+    "Temporary Notes/Untitled 1.md",
     "System Documentation",
     "Temporary Notes/here.md",
     "Permanent Notes/Indexes",
@@ -260,10 +277,7 @@
     "Goals and Strategy.md",
     "Tags",
     "05 - Brainstorming.md",
-    "06 - Journal.md",
-    "Untitled.md",
     "Untitled 1",
-    "Experiments and Projects",
-    "04 - Network and Collaboration.md"
+    "Experiments and Projects"
   ]
 }
