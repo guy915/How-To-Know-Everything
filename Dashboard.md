@@ -10,3 +10,4 @@ Know everything, experience everything, do everything, be everything, be everywh
 
 Necessary requirement: Infinite time.
 
+Feasibility: Virtually impossible.
