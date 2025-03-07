@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "README"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "Dashboard.md",
+    "README.md",
     "Temporary Notes/Aging Research README.md",
     "Temporary Notes/Dashboard.md",
     "Temporary Notes/Aging Research Dashboard.md",
