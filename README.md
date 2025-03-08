@@ -1,6 +1,8 @@
 Hereby you may find a guide on how to know everything known to mankind so far, and beyond.
 
-1. **Requirement 1**: More time.
+1. **Requirement 1**: Time.
+
+> *Understand that without time, you can be good at many things, but never great at anything.*
 
 2. **Requirement 2**: Access to information.
 
@@ -8,7 +10,7 @@ Hereby you may find a guide on how to know everything known to mankind so far, a
 
 4. **Requirement 4**: Ability to use knowledge.
 
-5. **Requirement 5**: Learning speed.
+5. **Requirement 5**: Efficiency.
 
 This guide will address the above requirements, as per the year 2025.
 
