@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporary Notes/Template Draft.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template Draft"
+              "title": "README"
             }
           }
         ]
@@ -244,13 +244,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Temporary Notes/Template Draft.md",
     "README.md",
     "Temporary Notes/My Life Goal.md",
     "Temporary Notes/Aging Research README.md",
     "Temporary Notes/Dashboard.md",
     "Temporary Notes/Aging Research Dashboard.md",
     "Permanent Notes/Indexes/Dashboard.md",
-    "Temporary Notes/Template Draft.md",
     "Temporary Notes/Untitled 1.md",
     "System Documentation",
     "Temporary Notes/here.md",
