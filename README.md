@@ -1,4 +1,4 @@
-Hereby you may find a guide on how to know everything known to mankind so far, and beyond.
+Hereby, may you find a guide on how to know everything known to mankind so far, and beyond.
 
 1. **Requirement 1**: Time.
 
