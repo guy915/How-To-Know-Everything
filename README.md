@@ -4,13 +4,21 @@ Hereby, may you find a guide on how to know everything known to mankind so far, 
 
 > *Understand that without time, you can be good at many things, but never great at anything.*
 
-2. **Requirement 2**: Access to information.
+2. **Requirement 2**: Access.
 
-3. **Requirement 3**: Storage capacity.
+> *Access to information.*
 
-4. **Requirement 4**: Ability to use knowledge.
+3. **Requirement 3**: Storage.
+
+> *Sufficient storage capacity to store information.*
+
+4. **Requirement 4**: Useability.
+
+> *Ability to use knowledge.*
 
 5. **Requirement 5**: Efficiency.
+
+> *Optimize and make learning more effective.*
 
 This guide will address the above requirements, as per the year 2025.
 

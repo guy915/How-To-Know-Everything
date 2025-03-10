@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporary Notes/Key Words for AI.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Key Words for AI"
+              "title": "README"
             }
           }
         ]
@@ -236,15 +236,17 @@
       "janitor:Janitor: scan vault": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Temporary Notes/Template Draft.md",
     "Temporary Notes/Key Words for AI.md",
     "README.md",
-    "Temporary Notes/Template Draft.md",
     "Temporary Notes/My Life Goal.md",
     "Temporary Notes/Aging Research README.md",
     "Temporary Notes/Dashboard.md",
