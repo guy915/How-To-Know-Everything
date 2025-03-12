@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Life Goal",
+      "path": "Temporary Notes/Life Goal.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Template Draft",
@@ -15,10 +19,6 @@
     {
       "basename": "Key Words for AI",
       "path": "Temporary Notes/Key Words for AI.md"
-    },
-    {
-      "basename": "My Life Goal",
-      "path": "Temporary Notes/My Life Goal.md"
     },
     {
       "basename": "Aging Research README",
@@ -30,7 +30,7 @@
     },
     {
       "basename": "Drawing 2025-02-10 23.24.08.excalidraw",
-      "path": "Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md"
+      "path": "Miscellaneous/Excalidraw/Drawing 2025-02-10 23.24.08.excalidraw.md"
     }
   ],
   "omittedPaths": [],
