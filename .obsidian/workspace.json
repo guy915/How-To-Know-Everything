@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporary Notes/Life Goal.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Goal"
+              "title": "README"
             }
           }
         ]
@@ -244,6 +244,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Temporary Notes/Life Goal.md",
     "Miscellaneous/System Documentation",
     "Miscellaneous/textgenerator/templates/huggingface/classify-bart-large-mnli.md",
     "Miscellaneous/textgenerator/templates/huggingface/summarizeBART.md",
@@ -272,7 +273,6 @@
     "README.md",
     "Temporary Notes/Template Draft.md",
     "Temporary Notes/Key Words for AI.md",
-    "Temporary Notes/Life Goal.md",
     "Temporary Notes/Aging Research README.md",
     "Temporary Notes/Dashboard.md",
     "Temporary Notes/Aging Research Dashboard.md",

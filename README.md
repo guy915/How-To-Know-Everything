@@ -25,3 +25,5 @@ This guide will address the above requirements, as per the year 2025.
 This guide assumes the reader is of the intelligence of an average adult educated human.
 
 > *This is research and anecdotal data, not facts. Never take anything at face value, always doubt first, agree after, and even then stay skeptical.*
+
+Start [[[Dashboard|here]].
